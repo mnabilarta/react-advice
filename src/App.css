@@ -1,0 +1,13 @@
+body {
+  background-color: teal;
+  color: white;
+  height: 90vh;
+}
+
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 50vh;
+  flex-direction: column;
+}
